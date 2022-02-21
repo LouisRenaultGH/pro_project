@@ -9,6 +9,9 @@ numpy
 pandas
 scikit-learn
 
+# visualisation
+seaborn
+
 # tests/linter
 black
 coverage
